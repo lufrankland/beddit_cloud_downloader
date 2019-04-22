@@ -32,7 +32,7 @@ Once you've run this, you will get something like the following
 $ bash ./get_beddit_cloud_data.sh
 ```
 
-By default, it will create a folder called "raw_export_files" in the working directory. You can ammend this
+By default, it will create a folder called "raw_export_files" in the working directory. You can amend this
 
 ## Warnings
 
